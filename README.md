@@ -1,11 +1,12 @@
 # Geocoding/Mapping with Unity Mapbox
 
-Create and Style the tile layers of your Map
+Create and Style the tile layers of your Map.
 
 ![map style](https://user-images.githubusercontent.com/18353476/28952342-5d2ab572-7885-11e7-8030-2c1017f9172a.PNG)
 ![map4](https://user-images.githubusercontent.com/18353476/28952494-6aef7c8c-7886-11e7-98ff-167490a6623b.gif)
 
 # Requirements and installation
+![mapbox-unity](https://user-images.githubusercontent.com/18353476/28955677-13871fce-789d-11e7-8899-4f1917ba6336.PNG)
 
 Mac OS
 Coming soon.
