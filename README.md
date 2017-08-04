@@ -3,7 +3,7 @@
 Create and Style the tile layers of your Map
 
 ![map style](https://user-images.githubusercontent.com/18353476/28952342-5d2ab572-7885-11e7-8030-2c1017f9172a.PNG)
-![map4](https://user-images.githubusercontent.com/18353476/28952354-797c9d08-7885-11e7-86cf-53d2d2bd96d4.gif)
+![map4](https://user-images.githubusercontent.com/18353476/28952494-6aef7c8c-7886-11e7-98ff-167490a6623b.gif)
 
 Getting started: https://www.mapbox.com/mapbox-unity-sdk/docs/00-getting-started.html
 
