@@ -1,6 +1,7 @@
 # Geocoding/Mapping with Unity Mapbox
+![unity maps](https://user-images.githubusercontent.com/18353476/28991456-c8952bc8-793c-11e7-9e15-42da3ad593e8.png)
 
-Create and Style the tile layers of your map for any augmented and virtual reality applications.
+Create and Style the tile layers of your map(2d or 3d) for any augmented reality and virtual reality applications.
 
 ![map style](https://user-images.githubusercontent.com/18353476/28952342-5d2ab572-7885-11e7-8030-2c1017f9172a.PNG)
 ![map4](https://user-images.githubusercontent.com/18353476/28952494-6aef7c8c-7886-11e7-98ff-167490a6623b.gif)
