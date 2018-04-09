@@ -52,7 +52,7 @@ For iOS, please set your minimum version to 8.
 # Android Studio
 [Android Studio 3.0](https://developer.android.com/studio/index.html)
 
-[A good tutorial for Android Studio Setup(Windows, Mac, and Linux)](https://www.tutorialspoint.com/android/android_studio.htm)
+[Android Studio User Guide(Windows, Mac, and Linux)](https://developer.android.com/studio/intro/index.html)
 
 # iOS Build Settings
 [Unity v2017.1 or later](https://unity3d.com/)
