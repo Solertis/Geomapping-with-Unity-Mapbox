@@ -16,12 +16,9 @@ To enable Vulkan support, open “Player Settings”, go to the “Other Setting
 # Requirements and installation
 ![mapbox-unity](https://user-images.githubusercontent.com/18353476/28955677-13871fce-789d-11e7-8899-4f1917ba6336.PNG)
 
-Mac OS
-Coming soon.
-Xamarin Studio is the recommended IDE.
+Mac OS Coming soon. [Xamarin Studio](https://www.xamarin.com/download) is the recommended IDE.
 
-Linux
-Coming soon.
+Linux Coming soon.
 
 Getting started: https://www.mapbox.com/mapbox-unity-sdk/docs/00-getting-started.html
 
@@ -41,7 +38,7 @@ IMPORTANT: If you intend to deploay for Android, please set your minimum version
 For iOS, please set your minimum version to 8.
 
 # Unity3d(Building for Android and iOS)
-https://unity3d.com/
+[Get Unity Here](https://unity3d.com/)
 
 [Game Development with Unity for iOS and Android devices.pdf](https://github.com/Mikerr1111/Marauder-Wolves/files/1216274/Game.Development.with.Unity.for.iOS.and.Android.devices.pdf)
 
@@ -50,19 +47,19 @@ https://unity3d.com/
 ![build_to_android_5](https://user-images.githubusercontent.com/18353476/27527819-55779986-5a02-11e7-96cc-bfaeb3a1b5f6.png)
 
 # Getting started with Android development
-https://docs.unity3d.com/Manual/android-GettingStarted.html
+[Android Development](https://docs.unity3d.com/Manual/android-GettingStarted.html)
 
 # Android Studio
-https://developer.android.com/studio/index.html
+[Android Studio 3.0](https://developer.android.com/studio/index.html)
 
-A good tutorial for Android Studio Setup(Windows, Mac, and Linux): https://www.tutorialspoint.com/android/android_studio.htm
+[A good tutorial for Android Studio Setup(Windows, Mac, and Linux)](https://www.tutorialspoint.com/android/android_studio.htm)
 
 # iOS Build Settings
-Unity v5.6.1 or later
+[Unity v2017.1 or later](https://unity3d.com/)
 
 Requires iOS 10 or later
 
-Requires XCode 9 beta or later: https://developer.apple.com/xcode/
+[Requires XCode 9 beta or later](https://developer.apple.com/xcode/)
 
 Requires iOS device(iPhone 6S or later, iPad (2016) or later)
 
