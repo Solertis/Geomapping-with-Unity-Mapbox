@@ -12,6 +12,7 @@ Create and Style the tile layers of your map(2d or 3d) for any augmented reality
 
 To enable Vulkan support, open “Player Settings”, go to the “Other Settings” pane and clear the “Auto Graphics API” checkbox. You are presented with an ordered list of graphics APIs to choose from. If Vulkan is not on that list, click the ‘+’ sign at the bottom of the list to add it. Then drag Vulkan to be the first item on the list so that it’ll be used whenever supported, and you’re done! All your existing shaders will get translated to Vulkan SPIR-V.
 ![vulkan](https://user-images.githubusercontent.com/18353476/28993201-7543d586-7965-11e7-8e9c-f93b7079e2bf.PNG)
+![vulkan-api](https://user-images.githubusercontent.com/18353476/38407514-a6187e80-392e-11e8-8c8c-802782a39d0c.png)
 
 # Requirements and installation
 ![mapbox-unity](https://user-images.githubusercontent.com/18353476/28955677-13871fce-789d-11e7-8899-4f1917ba6336.PNG)
