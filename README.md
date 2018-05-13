@@ -31,7 +31,15 @@ Built-in Examples: https://www.mapbox.com/mapbox-unity-sdk/docs/03-examples.html
 
 Attribution: https://www.mapbox.com/mapbox-unity-sdk/docs/04-attribution.html
 
-API: https://www.mapbox.com/mapbox-unity-sdk/api/
+Mapbox Unity SDK API: https://www.mapbox.com/mapbox-unity-sdk/api/
+
+Mapbox Maps API: https://www.mapbox.com/api-documentation/#maps 
+
+Mapbox Map Matching API: https://www.mapbox.com/api-documentation/#map-matching
+
+Mapbox Optimization API: https://www.mapbox.com/api-documentation/#optimization
+
+Navigation SDKs for iOS and Android: https://www.mapbox.com/navigation-sdk/
 
 Changelog: https://www.mapbox.com/mapbox-unity-sdk/docs/05-changelog.html
 
