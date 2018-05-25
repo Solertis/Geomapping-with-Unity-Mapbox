@@ -60,7 +60,6 @@ For iOS, please set your minimum version to 8.
 # Getting started with Android development
 [Android Development](https://docs.unity3d.com/Manual/android-GettingStarted.html)
 
-# Android Studio
 [Android Studio 3.0](https://developer.android.com/studio/index.html)
 
 [Android Studio User Guide(Windows, Mac, and Linux)](https://developer.android.com/studio/intro/index.html)
