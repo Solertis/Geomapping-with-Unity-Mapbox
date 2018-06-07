@@ -17,7 +17,11 @@ To enable Vulkan support, open “Player Settings”, go to the “Other Setting
 # Requirements and installation
 ![mapbox-unity](https://user-images.githubusercontent.com/18353476/28955677-13871fce-789d-11e7-8899-4f1917ba6336.PNG)
 
-Mac OS Coming soon. [Xamarin Studio](https://www.xamarin.com/download) is the recommended IDE.
+[Visual Studio 2017](https://www.visualstudio.com/)
+
+[Unity 2017.1 or later](https://unity3d.com/)
+
+Mac OS Coming soon. 
 
 Linux Coming soon.
 
