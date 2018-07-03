@@ -19,7 +19,9 @@ To enable Vulkan support, open “Player Settings”, go to the “Other Setting
 
 [Visual Studio 2017](https://www.visualstudio.com/)
 
-[Unity 2017.1 or later](https://unity3d.com/)
+[Unity 2017.4 or later](https://unity3d.com/)
+
+[Mapbox Studio](https://www.mapbox.com/mapbox-studio/)
 
 Mac OS Coming soon. 
 
