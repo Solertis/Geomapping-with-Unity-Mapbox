@@ -70,11 +70,11 @@ For iOS, please set your minimum version to 8.
 [Android Studio User Guide(Windows, Mac, and Linux)](https://developer.android.com/studio/intro/index.html)
 
 # iOS Build Settings
-[Unity v2017.1 or later](https://unity3d.com/)
+[Unity v2017.3 or later](https://unity3d.com/)
 
 Requires iOS 10 or later
 
-[Requires XCode 9 beta or later](https://developer.apple.com/xcode/)
+[Requires XCode 9.3 or later](https://developer.apple.com/xcode/)
 
 Requires iOS device(iPhone 6S or later, iPad (2016) or later)
 
