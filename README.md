@@ -46,6 +46,8 @@ Mapbox Optimization API: https://www.mapbox.com/api-documentation/#optimization
 
 Navigation SDKs for iOS and Android: https://www.mapbox.com/navigation-sdk/
 
+Vision SDK for Automotive artificial intelligence: https://www.mapbox.com/vision/
+
 Changelog: https://www.mapbox.com/mapbox-unity-sdk/docs/05-changelog.html
 
 IMPORTANT: If you intend to deploay for Android, please set your minimum version to 15 in PlayerSettings.
