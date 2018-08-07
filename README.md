@@ -22,7 +22,7 @@ To enable Vulkan support, open “Player Settings”, go to the “Other Setting
 
 [Mapbox Studio](https://www.mapbox.com/mapbox-studio/)
 
-Mac OS Coming soon. 
+[macOS Mapbox SDK](https://mapbox.github.io/mapbox-gl-native/macos/0.9.0/)
 
 Linux Coming soon.
 
