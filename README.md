@@ -20,6 +20,8 @@ To enable Vulkan support, open “Player Settings”, go to the “Other Setting
 
 [Unity 2017.4 or later](https://unity3d.com/)
 
+[Unity 2018.2.4f1 for Linux](https://beta.unity3d.com/download/fe703c5165de/public_download.html)
+
 [Mapbox Studio](https://www.mapbox.com/mapbox-studio/)
 
 [macOS Mapbox SDK](https://mapbox.github.io/mapbox-gl-native/macos/0.9.0/)
